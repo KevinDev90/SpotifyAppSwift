@@ -47,7 +47,7 @@ Spotify is a music streaming app. It allows users to discover, search, and play 
 
 4. Open the Xcode workspace:
    ```bash
-   open ChatApp.xcworkspace
+   open SpotifyApp.xcworkspace
 
 5. Build and run the project in Xcode.
 
